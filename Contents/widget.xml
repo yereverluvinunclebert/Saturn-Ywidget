@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<name>saturn</name>
+	<version>1.1</version>
+	<author name = "Dean Beedell" />
+	<platform minVersion = "4.5" />
+	<description>Displays a planet that can be made to perform a function.</description>
+	<image usage="security" src="Resources/saturn.png"/>
+	<security>
+          <filesystem>full</filesystem>
+          <http>all</http>
+          <applescript>true</applescript>
+          <command>true</command>
+          <hotkey>false</hotkey>
+	</security>
+
+</metadata>
