@@ -20,13 +20,14 @@ it will state as such - then it will pop up the preferences so that you can ente
 the command of your choice. The widget takes command line-style commands for
 windows or Mac OS/X.
 
-![about](https://github.com/yereverluvinunclebert/Jupiter-Widget/assets/2788342/c522923b-ceee-4e2a-8812-c545a0fd5114)
+![about](https://github.com/yereverluvinunclebert/Saturn-Ywidget/assets/2788342/acad321f-6a11-4c8c-92fa-9ed46abcec9a)
 
 All javascript widgets need an engine to function, in this case the widget uses 
 the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
 creates the widget according to the XML description and using the images you 
 provide. Designed and built by me.
 
+![bathysphere](https://github.com/yereverluvinunclebert/Saturn-Ywidget/assets/2788342/bfd2fb75-7e56-4b09-ad75-c11f24e8065d)
 
 Built using: 
 
